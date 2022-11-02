@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to Jovie's world!
-    text: Try anything you like
-    button: Tell Me More
+    title: 欢迎欢迎热烈欢迎👏!
+    text: 看看效果🎉
+    button: 加油加油🏠
     buttonlink: "#services"
 
   services:
